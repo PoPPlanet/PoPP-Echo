@@ -1,5 +1,5 @@
 {
-  "name": "@aave/lens-protocol",
+  "name": "@popp/lens-protocol",
   "version": "1.0.2",
   "description": "Composable and decentralized social graph",
   "main": "index.js",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aave/lens-protocol"
+    "url": "https://github.com/PoPPlanet/PoPP-lens"
   },
   "bugs": {
-    "url": "https://github.com/aave/lens-protocol/issues"
+    "url": "https://github.com/PoPPlanet/PoPP-lens/issues"
   },
-  "homepage": "https://github.com/aave/lens-protocol#readme",
+  "homepage": "https://github.com/PoPPlanet/PoPP-lens#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "2.0.5",
     "@nomiclabs/hardhat-etherscan": "2.1.8",
@@ -77,18 +77,11 @@
     "@openzeppelin/contracts-upgradeable": "4.5.0",
     "eth-sig-util": "^3.0.1"
   },
-  "author": "Lens",
-  "contributors": [
-    "Peter Michael (Zer0dot)",
-    "Miguel Martinez",
-    "Lasse Herskind",
-    "Steven Valeri",
-    "Alan Donoso Naumczuk",
-    "Emilio Frangella",
-    "David Racero"
-  ],
+  "author": "POPP",
+  "contributors": [],
   "license": "MIT",
   "keywords": [
+    "popp",
     "lens",
     "protocol",
     "aave",
