@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bba84110-cb5b-4a9e-8bef-513c40e524c8" name="Changes" comment="获取分奖比例">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Solidity Library" />
+        <option value="Solidity Contract" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1.9.0-V2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.env" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.prettierrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hardhat.config.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/scripts/deploy20230920-verify-signature.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2S1TnP2ECVD8D1rH7FJgwne6VRe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "1.9.0-V2",
+    "last_opened_file_path": "/Users/heath/WebstormProjects/PoPP-lens",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/heath/WebstormProjects/lens-core/node_modules/prettier",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/markdown" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/contracts/interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contracts/interfaces" />
+      <recent name="$PROJECT_DIR$/contracts/popp" />
+      <recent name="$PROJECT_DIR$/contracts/core/modules" />
+      <recent name="$PROJECT_DIR$/contracts/core/modules/auth" />
+      <recent name="$PROJECT_DIR$/contracts/core" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba84110-cb5b-4a9e-8bef-513c40e524c8" name="Changes" comment="" />
+      <created>1688313253595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688313253595</updated>
+      <workItem from="1688313254891" duration="33773000" />
+      <workItem from="1690247667616" duration="10285000" />
+      <workItem from="1690783537847" duration="31196000" />
+      <workItem from="1691465197609" duration="53594000" />
+      <workItem from="1691974787797" duration="111819000" />
+      <workItem from="1692939388291" duration="180686000" />
+      <workItem from="1694855358224" duration="17779000" />
+      <workItem from="1695296718041" duration="14413000" />
+      <workItem from="1697529566229" duration="18498000" />
+      <workItem from="1697860546197" duration="8994000" />
+      <workItem from="1699858384111" duration="7733000" />
+      <workItem from="1700619577363" duration="71310000" />
+      <workItem from="1701220412306" duration="39616000" />
+      <workItem from="1701398552509" duration="7255000" />
+      <workItem from="1701482792345" duration="52166000" />
+      <workItem from="1701789038359" duration="24351000" />
+      <workItem from="1701927149685" duration="113775000" />
+      <workItem from="1702888307024" duration="32743000" />
+      <workItem from="1703234200997" duration="60860000" />
+      <workItem from="1704959976427" duration="1679000" />
+      <workItem from="1705286816572" duration="599000" />
+      <workItem from="1705371808068" duration="10587000" />
+      <workItem from="1705539615085" duration="920000" />
+      <workItem from="1705543296663" duration="22836000" />
+      <workItem from="1706496588209" duration="18461000" />
+      <workItem from="1706946117194" duration="674000" />
+      <workItem from="1708429546377" duration="1222000" />
+      <workItem from="1709022083775" duration="599000" />
+      <workItem from="1710136635828" duration="6756000" />
+      <workItem from="1710740782723" duration="1802000" />
+      <workItem from="1711334164204" duration="599000" />
+      <workItem from="1711504210577" duration="605000" />
+      <workItem from="1711954006935" duration="3094000" />
+    </task>
+    <task id="LOCAL-00012" summary="profit">
+      <created>1692268399136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692268399136</updated>
+    </task>
+    <task id="LOCAL-00013" summary="领袖管理星球">
+      <created>1692323253878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692323253878</updated>
+    </task>
+    <task id="LOCAL-00014" summary="领袖管理星球">
+      <created>1692323759385</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692323759385</updated>
+    </task>
+    <task id="LOCAL-00015" summary="测试 demo">
+      <created>1692337148469</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692337148469</updated>
+    </task>
+    <task id="LOCAL-00016" summary="测试 demo">
+      <created>1692339278075</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339278075</updated>
+    </task>
+    <task id="LOCAL-00017" summary="isProfileCreatorWhitelisted(address profileCreator)">
+      <created>1692341321900</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692341321900</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1692342036407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692342036407</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1692410287159</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692410287159</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update: ProfileCreated">
+      <created>1692411902060</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692411902060</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update: v1.0.1 init">
+      <created>1692781309791</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692781309791</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update: 剥离 base">
+      <created>1692784053610</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1692784053610</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update: 新增事件">
+      <created>1692786401785</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692786401785</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update: 打赏脚本">
+      <created>1692862942057</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1692862942057</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update: 打赏脚本update">
+      <created>1692865114605</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1692865114605</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update: setGovernance">
+      <created>1692934356991</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692934356991</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update: Lens -&gt; PoPP">
+      <created>1694056688030</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1694056688030</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update: Lens -&gt; PoPP 1">
+      <created>1694057483802</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1694057483802</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update: PlanetBase.sol PoPPProfileNFT.sol">
+      <created>1694070540309</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1694070540309</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update: init">
+      <created>1694501408503</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1694501408503</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update: clean">
+      <created>1694512379742</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1694512379742</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update: clean">
+      <created>1694523827532</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1694523827532</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update: dai">
+      <created>1694569580607</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1694569580607</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update: demo">
+      <created>1694576256548</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1694576256548</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update: base">
+      <created>1694582886086</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1694582886086</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update: checkHandle">
+      <created>1694585160017</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1694585160017</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update: finance">
+      <created>1694586690675</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1694586690675</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update: event desc">
+      <created>1694594762516</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1694594762516</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update: finance">
+      <created>1694676478047</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1694676478047</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update: donate adjustedAmount">
+      <created>1694679042902</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1694679042902</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update: finance">
+      <created>1694684555840</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1694684555840</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update: finance">
+      <created>1694688929976</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1694688929976</updated>
+    </task>
+    <task id="LOCAL-00043" summary="delet auth">
+      <created>1694690044104</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1694690044104</updated>
+    </task>
+    <task id="LOCAL-00044" summary="代码优化v1">
+      <created>1694692539109</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1694692539109</updated>
+    </task>
+    <task id="LOCAL-00045" summary="查看收藏消息时需要支付的金额">
+      <created>1694695221856</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1694695221856</updated>
+    </task>
+    <task id="LOCAL-00046" summary="判断是否收藏该信息">
+      <created>1694702103666</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1694702103666</updated>
+    </task>
+    <task id="LOCAL-00047" summary="FinancePoolNFTModule.sol">
+      <created>1694741253273</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1694741253273</updated>
+    </task>
+    <task id="LOCAL-00048" summary="对于转发的消息：点赞打赏都是给到源消息的资金池">
+      <created>1694746885589</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1694746885589</updated>
+    </task>
+    <task id="LOCAL-00049" summary="对于转发的消息：点赞">
+      <created>1694755686423</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1694755686423</updated>
+    </task>
+    <task id="LOCAL-00050" summary="对于转发的消息：60s">
+      <created>1694760841190</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1694760841191</updated>
+    </task>
+    <task id="LOCAL-00051" summary="FinancePoolModule 合约整理">
+      <created>1694763464340</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1694763464340</updated>
+    </task>
+    <task id="LOCAL-00052" summary="发布消息可以不在星球基地内">
+      <created>1694768782037</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1694768782037</updated>
+    </task>
+    <task id="LOCAL-00053" summary="资金池 xinUI">
+      <created>1694772996347</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1694772996347</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Invalid baseId">
+      <created>1694777962924</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1694777962924</updated>
+    </task>
+    <task id="LOCAL-00055" summary="whitelistCurrency">
+      <created>1694780333170</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1694780333170</updated>
+    </task>
+    <task id="LOCAL-00056" summary="createPlanetProfileSBT">
+      <created>1694783973857</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1694783973857</updated>
+    </task>
+    <task id="LOCAL-00057" summary="7days">
+      <created>1694846852359</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1694846852359</updated>
+    </task>
+    <task id="LOCAL-00058" summary="script">
+      <created>1697592424227</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1697592424227</updated>
+    </task>
+    <task id="LOCAL-00059" summary="PoPPReward新增withdraw">
+      <created>1697608804170</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1697608804170</updated>
+    </task>
+    <task id="LOCAL-00060" summary="poPPAirdropMerkleDistributor">
+      <created>1697685202254</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1697685202254</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finance-module-test.ts" />
+    <MESSAGE value="注释" />
+    <MESSAGE value="Repeat collect" />
+    <MESSAGE value="臻藏奖励" />
+    <MESSAGE value=" &quot;finance pool module&quot;: &quot;0x5Af8cA58F6bD89Ec137eF08138E11853ED207649&quot;, //20231218 14:04 更新" />
+    <MESSAGE value="markdown" />
+    <MESSAGE value="转发者收益总和" />
+    <MESSAGE value="转发者收益总和 0xC4dF13733dCa1db0E6F19DCab6aD4d0b9eDd9eff" />
+    <MESSAGE value="Invalid amount." />
+    <MESSAGE value="mirror NFT" />
+    <MESSAGE value="mirror nft count" />
+    <MESSAGE value="1" />
+    <MESSAGE value="更新了所有合约地址" />
+    <MESSAGE value="_financeModuleWhitelisted" />
+    <MESSAGE value="ex" />
+    <MESSAGE value="deploy-online.ts" />
+    <MESSAGE value="线上合约地址" />
+    <MESSAGE value="PPT" />
+    <MESSAGE value=" 更新线上合约地址" />
+    <MESSAGE value="bsc" />
+    <MESSAGE value="bsc testnet 新合约地址" />
+    <MESSAGE value="bsc 生产新合约地址" />
+    <MESSAGE value="opBNB setCollectPriceRatesAddress" />
+    <MESSAGE value="opBNB test" />
+    <MESSAGE value="获取分奖比例" />
+    <option name="LAST_COMMIT_MESSAGE" value="获取分奖比例" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@ethersproject/contracts/lib/index.d.ts</url>
+          <line>124</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
