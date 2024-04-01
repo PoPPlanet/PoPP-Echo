@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba84110-cb5b-4a9e-8bef-513c40e524c8" name="Changes" comment="获取分奖比例">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="bba84110-cb5b-4a9e-8bef-513c40e524c8" name="Changes" comment="package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,7 @@
       <workItem from="1710740782723" duration="1802000" />
       <workItem from="1711334164204" duration="599000" />
       <workItem from="1711504210577" duration="605000" />
-      <workItem from="1711954006935" duration="3094000" />
+      <workItem from="1711954006935" duration="3734000" />
     </task>
     <task id="LOCAL-00012" summary="profit">
       <created>1692268399136</created>
@@ -470,7 +470,7 @@
       <option name="project" value="LOCAL" />
       <updated>1697685202254</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,8 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finance-module-test.ts" />
-    <MESSAGE value="注释" />
     <MESSAGE value="Repeat collect" />
     <MESSAGE value="臻藏奖励" />
     <MESSAGE value=" &quot;finance pool module&quot;: &quot;0x5Af8cA58F6bD89Ec137eF08138E11853ED207649&quot;, //20231218 14:04 更新" />
@@ -540,7 +538,9 @@
     <MESSAGE value="opBNB setCollectPriceRatesAddress" />
     <MESSAGE value="opBNB test" />
     <MESSAGE value="获取分奖比例" />
-    <option name="LAST_COMMIT_MESSAGE" value="获取分奖比例" />
+    <MESSAGE value="init" />
+    <MESSAGE value="package" />
+    <option name="LAST_COMMIT_MESSAGE" value="package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

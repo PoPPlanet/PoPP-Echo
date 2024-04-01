@@ -1,5 +1,5 @@
 {
-  "name": "@popp/lens-protocol",
+  "name": "@popp/echo-protocol",
   "version": "1.0.2",
   "description": "Composable and decentralized social graph",
   "main": "index.js",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PoPPlanet/PoPP-lens"
+    "url": "https://github.com/PoPPlanet/PoPP-Echo"
   },
   "bugs": {
-    "url": "https://github.com/PoPPlanet/PoPP-lens/issues"
+    "url": "https://github.com/PoPPlanet/PoPP-Echo/issues"
   },
-  "homepage": "https://github.com/PoPPlanet/PoPP-lens#readme",
+  "homepage": "https://github.com/PoPPlanet/PoPP-Echo#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "2.0.5",
     "@nomiclabs/hardhat-etherscan": "2.1.8",
@@ -82,7 +82,7 @@
   "license": "MIT",
   "keywords": [
     "popp",
-    "lens",
+    "echo",
     "protocol",
     "aave",
     "social",
