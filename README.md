@@ -1,5 +1,5 @@
 
-POPP-LENS-HUB 合约方法说明
+POPP-ECHO-HUB 合约方法说明
 
 | method                                                                                      | 参数                                                                                                                                                                                                                                                                               | 说明                               | 可操作地址                 |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------|
@@ -28,10 +28,10 @@ POPP-LENS-HUB 合约方法说明
 
 demo
 
-    个人profile的创建 lensHub.createProfile profileType=PoppProfile planetProfileId=0
-    星球profile的创建 lensHub.createProfile profileType=PlanetProfile planetProfileId=0
-    基地profile的创建 lensHub.createProfile profileType=BaseProfile planetProfileId=星球profileID
-    个人和个人之间的关注 lensHub.follow
-    个人加入星球 lensHub.follow
-    领袖管理星球 lensHub.setMuteFollower=禁言用户  lensHub.setMutePoppProfile=禁言profile lensHub.planetKickOutFollower=星球踢出用户
-    个人/领袖在星球中发布内容 lensHub.post
+    个人profile的创建 echoHub.createProfile profileType=PoppProfile planetProfileId=0
+    星球profile的创建 echoHub.createProfile profileType=PlanetProfile planetProfileId=0
+    基地profile的创建 echoHub.createProfile profileType=BaseProfile planetProfileId=星球profileID
+    个人和个人之间的关注 echoHub.follow
+    个人加入星球 echoHub.follow
+    领袖管理星球 echoHub.setMuteFollower=禁言用户  echoHub.setMutePoppProfile=禁言profile echoHub.planetKickOutFollower=星球踢出用户
+    个人/领袖在星球中发布内容 echoHub.post
